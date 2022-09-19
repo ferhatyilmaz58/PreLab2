@@ -1,4 +1,4 @@
-# PreLab2
+# Week-2 PreLab
 # PreLab2
 # processor 
 Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz   1.19 GHz
